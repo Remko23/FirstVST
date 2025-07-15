@@ -1,0 +1,17 @@
+# JUCE generated files and user configs
+Builds/
+*.jucer
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.htm
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.dSYM/
+*.vscode/
