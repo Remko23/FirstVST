@@ -1,2 +1,2 @@
-# FirstVST
-Gain Slider, first Juce Framework Project, Educational Purpose.
+# Gain Slider
+First Juce Framework Project, Educational Purpose.
